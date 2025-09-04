@@ -26,10 +26,10 @@ public static class Arrays
             result.Add(i * number);
         }
 
-        //convert List result to array resultx
-        double[] resultx = result.ToArray();
+        //convert List result to array resultO
+        double[] resultO = result.ToArray();
 
-        return resultx; // replace this return statement with your own
+        return resultO; // replace this return statement with your own
     }
 
     /// <summary>
